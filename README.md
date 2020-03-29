@@ -14,3 +14,8 @@ Use `rcon csgo_command here` to use console commands as admin
 `mp_restartgame 1` - restarts game
 
 `mp_autokick 0` - turn off auto kick and idle kick`
+
+
+## Look into using this...
+
+https://github.com/splewis/get5
