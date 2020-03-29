@@ -18,4 +18,8 @@ Use `rcon csgo_command here` to use console commands as admin
 
 ## Look into using this...
 
+Better for 10 man picks up:
+https://github.com/splewis/csgo-pug-setup
+
+Official tournements:
 https://github.com/splewis/get5
